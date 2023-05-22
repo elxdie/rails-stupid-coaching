@@ -13,3 +13,52 @@
  *= require_tree .
  *= require_self
  */
+
+ h2{
+  color:rgb(160, 143, 176);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 30px;
+ }
+
+ span{
+  color: rgb(42, 5, 76);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ form{
+  color: rgb(0, 0, 0);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  margin: 30px;
+
+ }
+
+ h4{
+  color:rgb(160, 143, 176);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 30px;
+ }
+
+ a{
+  margin: 30px;
+  background-color: rgb(202, 146, 255);
+  text-decoration: none;
+  border-radius: 5px;
+  color: whitesmoke;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 10px;
+ }
+
+ a:hover{
+  background-color: rgb(69, 36, 99);
+  color: whitesmoke;
+ }
+
+div{
+  width:500px;
+  margin: 30px;
+}
+
+.form_control{
+  margin-bottom: 30px;
+}
